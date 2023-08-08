@@ -7,7 +7,7 @@
 - **Web-фреймворки:** Django, DRF, Flask
 - **Анализ данных:** Pandas, Matplotlib, Openpyxl
 - **SQL:** PostgreSQL, SQLAlchemy, Sqlite, Aiosqlite, Redis
-- **Другие библиотеки:** Aiogram, Asyncio, Aiohttp, Aiofiles, Aiopath, Alembic, APScheduler, Celery, Faker, Factory boy, Gspread, Openai, Pillow, Pytest, Requests, Rutimeparser, Vosk, Werkzeug
+- **Другие библиотеки:** Aiogram, Asyncio, Aiohttp, Aiofiles, Aiopath, Alembic, APScheduler, BeautifulSoup, Celery, Faker, Factory boy, Gspread, Openai, Pillow, Pytest, Requests, Rutimeparser, Vosk, Werkzeug
 - **Прочие навыки:** Git, PyCharm, Linux, Bash, Docker, HTML, CSS, Bootstrap
 
 **Мои проекты:**
