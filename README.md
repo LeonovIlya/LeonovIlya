@@ -14,7 +14,7 @@
 - [Интернет-магазин на Django](https://github.com/LeonovIlya/Webapp-for-retail)
 - [Веб-приложение для отображения статистики](https://github.com/LeonovIlya/ChaStaFLa)
 - [Telegram bot для мерчендайзеров v.1](https://github.com/LeonovIlya/Telegram-bot-for-merchandisers)
-- [Telegram bot для мерчендайзеров v.2](https://github.com/LeonovIlya/action_bot) *по запросу
+- [Telegram bot для мерчендайзеров v.2](https://github.com/LeonovIlya/action_bot)
 - [Персональный Telegram bot](https://github.com/LeonovIlya/Personal_telegram_bot)
 - [API Сервис заказа товаров для розничных сетей](https://github.com/LeonovIlya/Netology_study/tree/master/7.Final_Diplom)
 
