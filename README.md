@@ -11,12 +11,12 @@
 - **Прочие навыки:** Git, PyCharm, Linux, Bash, Docker, HTML, CSS, Bootstrap
 
 **Мои проекты:**
+- [Telegram bot для мерчендайзеров на Aiogram](https://github.com/LeonovIlya/action_bot)
+- [Веб-приложение для отображения статистики на Flask](https://github.com/LeonovIlya/ChaStaFLa)
 - [Интернет-магазин на Django](https://github.com/LeonovIlya/Webapp-for-retail)
-- [Веб-приложение для отображения статистики](https://github.com/LeonovIlya/ChaStaFLa)
-- [Telegram bot для мерчендайзеров v.1](https://github.com/LeonovIlya/Telegram-bot-for-merchandisers)
-- [Telegram bot для мерчендайзеров v.2](https://github.com/LeonovIlya/action_bot)
-- [Персональный Telegram bot](https://github.com/LeonovIlya/Personal_telegram_bot)
-- [API Сервис заказа товаров для розничных сетей](https://github.com/LeonovIlya/Netology_study/tree/master/7.Final_Diplom)
+- [Персональный Telegram bot на Aiogram](https://github.com/LeonovIlya/Personal_telegram_bot)
+- [Telegram bot для мерчендайзеров old version на Aiogram](https://github.com/LeonovIlya/Telegram-bot-for-merchandisers)
+- [API Сервис заказа товаров для розничных сетей на DRF](https://github.com/LeonovIlya/Netology_study/tree/master/7.Final_Diplom)
 
 **Сертификаты Нетологии:**
 - Основы Python https://github.com/LeonovIlya/LeonovIlya/blob/main/python_basics.pdf
