@@ -4,7 +4,7 @@
 
 **Навыки:**
 - **Языки программирования:** Python
-- **Web-фреймворки:** Django, DRF, Flask
+- **Web-фреймворки:** Django, DRF, Flask, Fastapi
 - **Анализ данных:** Pandas, Matplotlib, Openpyxl
 - **SQL:** PostgreSQL, SQLAlchemy, Sqlite, Aiosqlite, Redis
 - **Другие библиотеки:** Aiogram, Asyncio, Aiohttp, Aiofiles, Aiopath, Alembic, APScheduler, BeautifulSoup, Celery, Faker, Factory boy, Gspread, Openai, Pillow, Pydantic, Pytest, Requests, Rutimeparser, Vosk, Werkzeug
